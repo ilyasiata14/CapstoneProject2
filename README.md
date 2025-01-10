@@ -70,4 +70,4 @@ The dataset has undergone data cleaning and preprocessing to identify and handle
 ---
 
 ## **Author**
-Developed as part of the Capstone Project for Purwadhika Data Science Bootcamp. For further inquiries, feel free to reach out via [GitHub Issues](https://github.com/yourusername/awssaasproject/issues).
+Developed as part of the Capstone Project for Purwadhika Data Science Bootcamp. For further inquiries, feel free to reach out via (https://github.com/ilyasiata14/CapstoneProject2)
